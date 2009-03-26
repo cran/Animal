@@ -16,6 +16,6 @@ function (file, clean = TRUE)
     data$begin <- as.POSIXct(paste(file.date, data$begin))
     data$end <- as.POSIXct(paste(file.date, data$end))
     if (clean == TRUE) 
-        data <- clean.insentec(data)
+        data <- clean.RIC(data)
     data
 }

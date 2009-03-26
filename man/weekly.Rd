@@ -24,6 +24,7 @@ weekly(data, time, fun = sum, subject = NULL)
   \item{Week}{Week number}
   \item{Subject}{Appears only if you have specified a subject}
   \item{Result}{The result of the function}
+  
 }
 
 \author{Matti Pastell <matti.pastell@helsinki.fi>}

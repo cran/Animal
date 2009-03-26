@@ -1,7 +1,7 @@
 Package: Animal
 Type: Package
 Title: Analyze time-coded animal behavior data
-Version: 1.01
+Version: 1.02
 Date: 2009-03-26
 Author: Matti Pastell <matti.pastell@helsinki.fi>
 Maintainer: Matti Pastell <matti.pastell@helsinki.fi>
@@ -14,10 +14,13 @@ Description: The Animal package is a collection of functions for
         daily, weekly and monthly summaries of time coded data,
         analysis of RIC (roughage intake system, Insentec automation)
         data files and labeling measurement data according to
-        behavioral observations for e.g model building purpose.
-License: GPL (>=3)
+        behavioral observations for e.g model building purposes.
+License: GPL (>= 3)
 LazyLoad: yes
 Repository: CRAN
 URL: http://www.mm.helsinki.fi/~mpastell/CowLog/Animal.html
-Packaged: Fri Mar 27 20:25:23 2009; Matti
-Date/Publication: 2009-03-28 10:20:22
+Repository/R-Forge/Project: animal
+Repository/R-Forge/Revision: 15
+Publication/Date: 2009-03-31 09:25:47
+Packaged: Wed Apr 1 04:47:34 2009; rforge
+Date/Publication: 2009-04-03 09:41:27
