@@ -17,19 +17,22 @@ cowAnalyze(file = NULL, states = NULL, events = NULL,
   \item{state.names}{A character vector with the names for the states }
   \item{event.names}{A character vector with the names for the events}
 }
-\details{
 
-}
 \value{
-
   \item{state}{Results for states}
   \item{event}{Results for events}
-  ...
 }
-\references{}
-\author{Matti Pastell}
-\note{ 
+
+\references{  Hanninen, L. & Pastell, M. CowLog: Open source software for coding
+  behaviors from digital video. Behavior Research Methods. 41(2),
+  472-476.
+  
+  http://www.mm.helsinki.fi/~mpastell/CowLog
 }
+
+\author{Matti Pastell <matti.pastell@helsinki.fi>}
+
+
 
 \examples{
 ##Analyze CowLog datafile named calf1.bh1,
@@ -39,7 +42,3 @@ cowAnalyze(file = NULL, states = NULL, events = NULL,
 events=c(4,5),state.names=c('lying','standing','walking'))}
  
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{}
-\keyword{}% __ONLY ONE__ keyword per line
