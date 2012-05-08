@@ -1,8 +1,8 @@
 Package: Animal
 Type: Package
 Title: Analyze time-coded animal behavior data
-Version: 1.02
-Date: 2009-03-26
+Version: 1.04
+Date: 2012-05-08
 Author: Matti Pastell <matti.pastell@helsinki.fi>
 Maintainer: Matti Pastell <matti.pastell@helsinki.fi>
 Description: The Animal package is a collection of functions for
@@ -18,9 +18,6 @@ Description: The Animal package is a collection of functions for
 License: GPL (>= 3)
 LazyLoad: yes
 Repository: CRAN
-URL: http://www.mm.helsinki.fi/~mpastell/CowLog/Animal.html
-Repository/R-Forge/Project: animal
-Repository/R-Forge/Revision: 15
-Publication/Date: 2009-03-31 09:25:47
-Packaged: Wed Apr 1 04:47:34 2009; rforge
-Date/Publication: 2009-04-03 09:41:27
+URL: http://mpastell.com/CowLog/
+Packaged: 2012-05-09 04:37:59 UTC; mpastell
+Date/Publication: 2012-05-09 06:35:53
